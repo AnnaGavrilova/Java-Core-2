@@ -20,11 +20,6 @@ public class Box<T extends Fruits> {
         return fruit;
     }
 
-    //удаление фрукта из коробки
-    public void delitFruit(T element) {
-        arrayOfFruits.remove(element);
-    }
-
     //подсчет веса коробки
     public float getWeight() {
         return (arrayOfFruits.size() * fruit.getWeight());
