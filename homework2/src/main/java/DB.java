@@ -42,7 +42,6 @@ public class DB {
         }
 
         pstmt.executeBatch();
-
         connection.setAutoCommit(true);
     }
 }
