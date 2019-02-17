@@ -35,7 +35,5 @@ public class MainClass {
         appleBox1.sprinkleFruits(appleBox2);
         System.out.println("Новый вес второй коробки с яблоками: " + appleBox2.getWeight());
         System.out.println("Новый вес первой коробки с яблоками: " + appleBox1.getWeight());
-
-
     }
 }
