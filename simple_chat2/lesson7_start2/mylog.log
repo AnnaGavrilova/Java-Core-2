@@ -1,0 +1,8 @@
+фев 20, 2019 3:45:29 PM java.util.logging.LogManager$RootLogger log
+INFO: Сервер запущен. Ожидаем клиентов...
+фев 20, 2019 3:45:38 PM java.util.logging.LogManager$RootLogger log
+WARNING: Неудачная попытка подключения клиента!
+фев 20, 2019 3:45:44 PM java.util.logging.LogManager$RootLogger log
+INFO: Клиент подключился
+фев 20, 2019 3:45:57 PM java.util.logging.LogManager$RootLogger log
+INFO: Клиент подключился
