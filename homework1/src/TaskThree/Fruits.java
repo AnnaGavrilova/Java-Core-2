@@ -12,4 +12,5 @@ public abstract class Fruits {
     public String getName() {
         return this.name;
     }
+
 }

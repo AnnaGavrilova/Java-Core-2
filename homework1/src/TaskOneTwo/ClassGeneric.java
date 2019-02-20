@@ -28,4 +28,5 @@ public class ClassGeneric<T> {
         List<T> array = Arrays.asList(mass);
         return array;
     }
+
 }

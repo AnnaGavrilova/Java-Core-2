@@ -6,5 +6,4 @@ public class Orange extends Fruits {
         this.name = "orange";
         this.weight = 1.5f;
     }
-
 }

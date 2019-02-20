@@ -6,5 +6,4 @@ public class Apple extends Fruits {
         this.name = "apple";
         this.weight = 1.0f;
     }
-
 }
