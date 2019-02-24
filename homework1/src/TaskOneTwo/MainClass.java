@@ -18,9 +18,5 @@ public class MainClass {
         ClassGeneric<Integer> exampleInt = new ClassGeneric<Integer>(massInt);
         List<Integer> myArray = exampleInt.getArrayList();
         System.out.println(myArray);
-
-
-
-
     }
 }
